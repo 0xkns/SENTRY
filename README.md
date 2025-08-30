@@ -11,6 +11,9 @@ Vanilla RAG pipelines are unsafe for enterprise and sensitive applications becau
 
 SENTRY solves this by introducing dual-gates (query and context) and policy-driven enforcement.
 
+<img width="872" height="378" alt="image" src="https://github.com/user-attachments/assets/926504ee-1b93-477c-955d-e97517733be2" />
+
+
 ## Theme
 - Privacy-first → Minimal exposure of sensitive data
 - Policy-driven → Compliance checks at each step
